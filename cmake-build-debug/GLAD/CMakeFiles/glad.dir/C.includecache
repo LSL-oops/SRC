@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bfa-oren/CLionProjects/SOFT_BODY_CONTROL/GLAD/glad.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+glad.h
+/home/bfa-oren/CLionProjects/SOFT_BODY_CONTROL/GLAD/glad.h
+windows.h
+-
+winapifamily.h
+-
+dlfcn.h
+-
+
+/home/bfa-oren/CLionProjects/SOFT_BODY_CONTROL/GLAD/glad.h
+KHR/khrplatform.h
+-
+

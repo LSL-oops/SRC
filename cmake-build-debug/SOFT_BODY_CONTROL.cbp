@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="SOFT_BODY_CONTROL"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/shuliang/Desktop/SOFT_BODY_CONTROL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/home/shuliang/Desktop/SOFT_BODY_CONTROL/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/home/shuliang/Desktop/SOFT_BODY_CONTROL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/home/shuliang/Desktop/SOFT_BODY_CONTROL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/home/shuliang/Desktop/SOFT_BODY_CONTROL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/shuliang/Desktop/SOFT_BODY_CONTROL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/home/shuliang/Desktop/SOFT_BODY_CONTROL/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/home/shuliang/Desktop/SOFT_BODY_CONTROL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/home/shuliang/Desktop/SOFT_BODY_CONTROL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/home/shuliang/Desktop/SOFT_BODY_CONTROL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="demo">
+				<Option output="/home/shuliang/Desktop/SOFT_BODY_CONTROL/cmake-build-debug/demo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shuliang/Desktop/SOFT_BODY_CONTROL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/shuliang/Desktop/SOFT_BODY_CONTROL/./include"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/home/shuliang/Desktop/SOFT_BODY_CONTROL/cmake-build-debug/Makefile&quot;  VERBOSE=1 demo"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/home/shuliang/Desktop/SOFT_BODY_CONTROL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/home/shuliang/Desktop/SOFT_BODY_CONTROL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/home/shuliang/Desktop/SOFT_BODY_CONTROL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="demo/fast">
+				<Option output="/home/shuliang/Desktop/SOFT_BODY_CONTROL/cmake-build-debug/demo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shuliang/Desktop/SOFT_BODY_CONTROL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/shuliang/Desktop/SOFT_BODY_CONTROL/./include"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/home/shuliang/Desktop/SOFT_BODY_CONTROL/cmake-build-debug/Makefile&quot;  VERBOSE=1 demo/fast"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/home/shuliang/Desktop/SOFT_BODY_CONTROL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/home/shuliang/Desktop/SOFT_BODY_CONTROL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/home/shuliang/Desktop/SOFT_BODY_CONTROL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/shuliang/Desktop/SOFT_BODY_CONTROL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/home/shuliang/Desktop/SOFT_BODY_CONTROL/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/home/shuliang/Desktop/SOFT_BODY_CONTROL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/home/shuliang/Desktop/SOFT_BODY_CONTROL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/home/shuliang/Desktop/SOFT_BODY_CONTROL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/shuliang/Desktop/SOFT_BODY_CONTROL/Camera.h">
+			<Option target="demo"/>
+		</Unit>
+		<Unit filename="/home/shuliang/Desktop/SOFT_BODY_CONTROL/IsotropicHyperelasticFEMWithRestShapeControl.cpp">
+			<Option target="demo"/>
+		</Unit>
+		<Unit filename="/home/shuliang/Desktop/SOFT_BODY_CONTROL/IsotropicHyperelasticFEMWithRestShapeControl.h">
+			<Option target="demo"/>
+		</Unit>
+		<Unit filename="/home/shuliang/Desktop/SOFT_BODY_CONTROL/RestShapeController.cpp">
+			<Option target="demo"/>
+		</Unit>
+		<Unit filename="/home/shuliang/Desktop/SOFT_BODY_CONTROL/RestShapeController.h">
+			<Option target="demo"/>
+		</Unit>
+		<Unit filename="/home/shuliang/Desktop/SOFT_BODY_CONTROL/Shader.h">
+			<Option target="demo"/>
+		</Unit>
+		<Unit filename="/home/shuliang/Desktop/SOFT_BODY_CONTROL/SoftBodyController.cpp">
+			<Option target="demo"/>
+		</Unit>
+		<Unit filename="/home/shuliang/Desktop/SOFT_BODY_CONTROL/SoftBodyController.h">
+			<Option target="demo"/>
+		</Unit>
+		<Unit filename="/home/shuliang/Desktop/SOFT_BODY_CONTROL/SoftBodySimulator.cpp">
+			<Option target="demo"/>
+		</Unit>
+		<Unit filename="/home/shuliang/Desktop/SOFT_BODY_CONTROL/SoftBodySimulator.h">
+			<Option target="demo"/>
+		</Unit>
+		<Unit filename="/home/shuliang/Desktop/SOFT_BODY_CONTROL/configHeader.h">
+			<Option target="demo"/>
+		</Unit>
+		<Unit filename="/home/shuliang/Desktop/SOFT_BODY_CONTROL/demo.cpp">
+			<Option target="demo"/>
+		</Unit>
+		<Unit filename="/home/shuliang/Desktop/SOFT_BODY_CONTROL/glad.c">
+			<Option target="demo"/>
+		</Unit>
+		<Unit filename="/home/shuliang/Desktop/SOFT_BODY_CONTROL/glad.h">
+			<Option target="demo"/>
+		</Unit>
+		<Unit filename="/home/shuliang/Desktop/SOFT_BODY_CONTROL/implicitBackwardEulerSparseWithRestShapeControl.cpp">
+			<Option target="demo"/>
+		</Unit>
+		<Unit filename="/home/shuliang/Desktop/SOFT_BODY_CONTROL/implicitBackwardEulerSparseWithRestShapeControl.h">
+			<Option target="demo"/>
+		</Unit>
+		<Unit filename="/home/shuliang/Desktop/SOFT_BODY_CONTROL/pyBindInterface.cpp">
+			<Option target="demo"/>
+		</Unit>
+		<Unit filename="/home/shuliang/Desktop/SOFT_BODY_CONTROL/pyBindInterface.h">
+			<Option target="demo"/>
+		</Unit>
+		<Unit filename="/home/shuliang/Desktop/SOFT_BODY_CONTROL/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,5 @@
+/home/shuliang/Downloads/CLion-2019.1.4/clion-2019.1.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/shuliang/Desktop/SOFT_BODY_CONTROL
+-- Found OpenGL: /usr/lib/x86_64-linux-gnu/libOpenGL.so   
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/shuliang/Desktop/SOFT_BODY_CONTROL/cmake-build-debug

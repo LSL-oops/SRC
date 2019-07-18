@@ -1,0 +1,3 @@
+/home/shuliang/Desktop/SOFT_BODY_CONTROL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/shuliang/Desktop/SOFT_BODY_CONTROL/cmake-build-debug/CMakeFiles/demo.dir
+/home/shuliang/Desktop/SOFT_BODY_CONTROL/cmake-build-debug/CMakeFiles/edit_cache.dir

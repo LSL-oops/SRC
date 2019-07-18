@@ -1,0 +1,3 @@
+/home/bfa-oren/CLionProjects/SOFT_BODY_CONTROL/build/CMakeFiles/rebuild_cache.dir
+/home/bfa-oren/CLionProjects/SOFT_BODY_CONTROL/build/CMakeFiles/demo.dir
+/home/bfa-oren/CLionProjects/SOFT_BODY_CONTROL/build/CMakeFiles/edit_cache.dir
